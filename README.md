@@ -1,2 +1,4 @@
-# sequence_elixir_kata
-Problema de tratamento de listas
+Sequence
+========
+
+** TODO: Add description **
